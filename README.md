@@ -6,7 +6,7 @@
 
 We can type equations, for example
 
-$$P(a<X<b)=\int\limits_{a}^{b}f(x)dx
+$P(a<X<b)=\displaystyle\int\limits_{a}^{b}f(x)dx$
 
 ## Highlight Code
 
