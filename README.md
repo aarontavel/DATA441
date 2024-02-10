@@ -1,27 +1,7 @@
-# DATA441
+####This is my GitHub page!
 
-# Example - 0
+Here, I will attach my work from DATA 451. 
 
-## Section Name
+I am a senior with a dual major in Data Science and Government. 
 
-We can type equations, for example
-
-$$P(a<X<b)=\int_{a}^{b}f(x)dx$$
-
-## Highlight Code
-
-```python
-import numpy as np
-
-x = np.arrange(0,10,0.5)
-
-def f(x):
-  return x**2+1
-```
-
-## UML Diagrams
-
-
-
-
-
+I have interests in international relations, global health, and their intersections with data.
