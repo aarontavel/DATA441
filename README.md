@@ -9,3 +9,5 @@ I have interests in international relations, global health, and their intersecti
 Homework 1: [https://github.com/aarontavel/DATA441/blob/main/Tavel_HMW1.ipynb]
 
 Homework 2: [https://github.com/aarontavel/DATA441/blob/main/Tavel_HW2_2.ipynb]
+
+Homework 3: [https://github.com/aarontavel/DATA441/blob/main/Tavel_HW3.ipynb]
